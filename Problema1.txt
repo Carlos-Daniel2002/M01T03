@@ -1,0 +1,14 @@
+Inicio
+1- Recibir Números del usuario
+2- A= Primer número
+3- B= Segundo número
+4- C= Tercer número
+5- Si, A > B & C;
+Devolver “Sí, Lo es”,
+sino, Leer nueva función.
+6- Si, B> A & C;
+Devolver “Sí, Lo es”,
+sino, Leer nueva función.
+7- Si, C> A & B;
+Devolver “Sí, Lo es”,
+Fin

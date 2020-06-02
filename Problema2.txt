@@ -1,0 +1,9 @@
+Inicio
+1- Recibir Valores de los ángulos
+2- A= Angulo 1
+3- B= Angulo 2
+4- C= Angulo 3
+5- Introducir Formula 
+6-  A + B + C =180º
+7- Devolver “Sí, Lo es”,
+Fin

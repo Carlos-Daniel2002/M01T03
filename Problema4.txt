@@ -1,0 +1,20 @@
+Inicio
+1- Ingresar minutos consumidos
+2- Total de minutos “Indefinido”
+3- Leer (minutos);
+Si, (minutos <= 100);
+total = minutos * 0.45
+crear factura.
+sino, Leer nueva función.
+4- Si (minutos <= 200);
+total = minutos * 0.40
+crear factura.
+sino, Leer nueva función.
+5- Si (minutos <= 400);
+total = ((minutos * 0.30) “-5.00 =Descuento”)
+crear factura.
+sino, Leer nueva función.
+6- Si (minutos > 400);
+total =((minutos * 0.27) “-10.00 =Descuento”)
+crear factura
+FIN

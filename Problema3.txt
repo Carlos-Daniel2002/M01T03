@@ -1,0 +1,9 @@
+Inicio
+1-	Ingresar año 
+2-	Leer año 
+3-	“Ingresar formula”
+4-	Año bisiesto = ((año % 4 ==0) AND (año %100! =0)) || (año % 400 == 0)
+5-	Devolver “Sí, Es año Bisiesto”,
+sino, 
+6-	Devolver “No, Es año Bisiesto”
+Fin

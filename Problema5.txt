@@ -1,0 +1,26 @@
+Inicio
+1- Ingresar Valores.
+Fin de semana= “Weekend”
+Descuento de toda la tienda = “store discount”
+Categoría de auto estéreos= “stereo category”
+ Cliente viste un sombrero= “HatONE”
+Producto está Marcado como producto Nuevo= “new product”
+Toda la Tienda= “ALL”
+Producto= “product”
+2-Ingresar compras
+3-Si, (Weekend=ALL)-10% 
+Devolver ”Gracias por su compra pase feliz fin de semana ”
+Sino:
+Si, (product>100$)-3%
+Devolver ”Gracias por su compra”
+Sino:
+Si, (stereo Category<100$)-5%
+Devolver  ”Gracias por su compra”
+Sino:
+Si, (HatOne=product)-$5.00
+Devolver  ”Que bonito sombrero, Pase un feliz día”
+Sino:
+Si, (new product)-0%
+Devolver  ”Gracias por su compra”
+FIN
+
